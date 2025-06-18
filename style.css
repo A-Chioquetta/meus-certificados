@@ -389,9 +389,9 @@ body.menu-open {
         font-size: 1em;
         padding: 12px 15px;
     }
-    /* Ajuste para a foto de perfil em telas menores */
+    
      .profile-pic {
-        display: none; /* **NOVO: Oculta a foto de perfil em mobile** */
+        display: none; 
     }
 
     .hero-section h1 {
